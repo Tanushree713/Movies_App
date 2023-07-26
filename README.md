@@ -1,14 +1,9 @@
 # Movies Search App
 
-![App Screenshot](screenshot.png)
-
 ## Description
 
 The Movies Search App is a web application that allows users to search for information about movies using the OMDB API. It provides movie details such as title, poster, and other information. The app is built using HTML, CSS, and JavaScript.
 
-## Demo
-
-[Link to Live Demo](https://example.com/movies-search-app)
 
 ## Features
 
@@ -28,10 +23,6 @@ The Movies Search App is a web application that allows users to search for infor
 1. Clone the repository: `git clone https://github.com/your-username/movies-search-app.git`
 2. Open the `index.html` file in your web browser.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## API Key (Optional)
 
